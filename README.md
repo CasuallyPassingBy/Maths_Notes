@@ -66,7 +66,7 @@ The notes in this repository encompass various branches and topics within mathem
 To get started with the notes, you can clone the repository using the following command:
 
 ```bash
-git clone https://github.com/CasuallyPassingBy/My_Notes.git
+git clone https://github.com/CasuallyPassingBy/Maths_Notes.git
 ```
 
 Feel free to navigate through the directories and explore the notes on various topics. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
