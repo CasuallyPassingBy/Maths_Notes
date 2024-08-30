@@ -1,0 +1,41 @@
+---
+tags:
+  - "#Umi"
+---
+
+- ginny red, novio hodori $\ne$ tigrito de KU
+- stitch
+- oso peresoso
+- oso de build a bear
+- shiny dragon
+- finni
+- tu perrito
+- tu perrote (a veces Doggy)
+- perro de minso
+- tiny tigrito (hermano de hodori) $\ne$ tigirto de KU
+- langosta
+- binini
+- lenini
+- tu changuito
+- conejito morado
+- dragon de Fedez
+- otro perrito
+- dos vaquita
+- frankkie stein y su perrito
+- serpiente
+- wooper
+- Cometa
+- Mini lee bit
+- Mini wolf chan
+- Mini ginny red
+- Mini puppyM
+- Mini dwaeki
+- Mini Bbokari
+- Mini Han Quokka
+- flan I.N.
+- momo (hermano de feral)
+- monstrito morado
+- zara, el parasaurolopus
+- pantonio
+- shark-o
+- partysaurus

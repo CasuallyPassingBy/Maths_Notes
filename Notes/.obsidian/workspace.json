@@ -40,12 +40,12 @@
             }
           },
           {
-            "id": "57485e36b8b61edd",
+            "id": "2f204300ea6e493c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Group Homomorphisms.md",
+                "file": "Symmetric Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,18 +70,6 @@
               "type": "markdown",
               "state": {
                 "file": "Normal Subgroups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c07f439297330e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symmetric Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "beb862e217a984e3",
@@ -239,17 +228,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb9489502a761e08",
+  "active": "2c1a1ffe45983a05",
   "lastOpenFiles": [
+    "Central Hub.md",
+    "Symmetric Groups.md",
+    "Counting elements of Finite Groups.md",
+    "Group Theory.md",
+    "Normal Subgroups.md",
+    "Frenet–Serret formulas.md",
+    "Bili.md",
     "Bachelor's_Thesis/Round 1 Expo (Bachelor's).md",
     "Bachelor's_Thesis",
-    "Symmetric Groups.md",
     "Group Homomorphisms.md",
-    "Group Theory.md",
-    "Central Hub.md",
-    "Normal Subgroups.md",
-    "Counting elements of Finite Groups.md",
-    "Untitled.md",
     "Subgroups.md",
     "Integers modulo n.md",
     "Tensor Product.md",
@@ -267,7 +257,6 @@
     "Fourier Analysis on finite abelian groups.md",
     "Fourier Analysis on Z(N).md",
     "Lattices.md",
-    "Rational or Frobenius Normal Form.md",
     "Untitled.canvas",
     "Pasted image 20240627014411.png",
     "Pasted image 20240118182937.png",
