@@ -5,6 +5,8 @@ Welcome to my comprehensive collection of mathematics notes! This repository con
 # Overview
 The notes in this repository encompass various branches and topics within mathematics. Whether you're studying for exams, working on assignments, or exploring mathematical concepts, these notes are structured to support your learning journey.
 
+![image](https://github.com/user-attachments/assets/d8a36c42-4362-43fa-822c-2fc7f5cbbe6b)
+
 ## Table of Contents
 
 ### Foundational Topics
@@ -83,6 +85,6 @@ If you would like to contribute to the notes, please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 # Contact
-If you have any questions or feedback, you can reach out to me via email or through the GitHub Issues page.
+If you have any questions or feedback, you can reach out to me via [emial](kbt.moscoso@gmail.com) or through the GitHub Issues page.
 
 
