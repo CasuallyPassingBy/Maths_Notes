@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Symmetric Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Symmetric Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Symmetric Groups.md"
+              }
             }
           },
           {
@@ -228,8 +233,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "82c953b926698826",
+  "active": "2f204300ea6e493c",
   "lastOpenFiles": [
+    "Subgroups.md",
     "Central Hub.md",
     "Templates/New Math Note.md",
     "Untitled.md",
@@ -243,7 +249,6 @@
     "Bachelor's_Thesis/Round 1 Expo (Bachelor's).md",
     "Bachelor's_Thesis",
     "Group Homomorphisms.md",
-    "Subgroups.md",
     "Integers modulo n.md",
     "Tensor Product.md",
     "Boolean Algebras over Topological Spaces.md",

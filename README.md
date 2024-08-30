@@ -5,19 +5,61 @@ Welcome to my comprehensive collection of mathematics notes! This repository con
 # Overview
 The notes in this repository encompass various branches and topics within mathematics. Whether you're studying for exams, working on assignments, or exploring mathematical concepts, these notes are structured to support your learning journey.
 
-# Repository Structure
-Here's an overview of the structure and content of the repository:
+## Table of Contents
 
-- Foundational: Covers essential topics in set theory, topology, and number theory.
-- Analysis: Includes notes on real analysis, vector analysis, metric and normed spaces, complex analysis, Fourier analysis, and functional analysis.
-- Algebra: Contains information on linear algebra, group theory, and ring theory.
-- Differential Equations: Notes on ordinary and partial differential equations.
-- Applied Mathematics: Includes numerical analysis, combinatorics, probability theory, statistics, and stochastic processes.
-- Advanced Topics: Focuses on measure theory.
-- Special Objects: Covers special functions, polynomials, numbers, and notations.
-- Physics: Notes related to classical mechanics.
-- Computer Science: Topics include theory of computation, algorithms and data structures, and artificial intelligence.
-- Miscellaneous: Includes fractional calculus, umbral calculus, finite operator calculus, useful identities, and macroeconomics.
+### Foundational Topics
+- [Set Theory](#set-theory)
+- [Topology](#topology)
+- [Number Theory](#number-theory)
+
+### Analysis
+- [Real Analysis](#real-analysis)
+- [Vector Analysis](#vector-analysis)
+- [Metric and Normed Spaces](#metric-and-normed-spaces)
+- [Complex Analysis](#complex-analysis)
+- [Fourier Analysis](#fourier-analysis)
+- [Functional Analysis](#functional-analysis)
+
+### Algebra
+- [Linear Algebra](#linear-algebra)
+- [Group Theory](#group-theory)
+- [Ring Theory](#ring-theory)
+
+### Differential Equations
+- [Ordinary Differential Equations](#ordinary-differential-equations)
+- [Partial Differential Equations](#partial-differential-equations)
+
+### Applied Mathematics
+- [Numerical Analysis](#numerical-analysis)
+- [Combinatorics](#combinatorics)
+- [Probability Theory](#probability-theory)
+- [Statistics](#statistics)
+- [Stochastic Processes](#stochastic-processes)
+
+### Advanced Topics
+- [Measure Theory](#measure-theory)
+
+### Special Objects
+- [Special Functions](#special-functions)
+- [Special Polynomials](#special-polynomials)
+- [Special Numbers](#special-numbers)
+- [Special Notations](#special-notations)
+
+### Physics
+- [Classical Mechanics](#classical-mechanics)
+
+### Computer Science
+- [Theory of Computation](#theory-of-computation)
+- [Algorithms and Data Structures](#algorithms-and-data-structures)
+- [Artificial Intelligence](#artificial-intelligence)
+
+### Miscellaneous
+- [Fractional Calculus](#fractional-calculus)
+- [Umbral Calculus](#umbral-calculus)
+- [Finite Operator Calculus](#finite-operator-calculus)
+- [Useful Identities](#useful-identities)
+- [Macroeconomics](#macroeconomics)
+
 # Getting Started
 To get started with the notes, you can clone the repository using the following command:
 
@@ -36,8 +78,9 @@ If you would like to contribute to the notes, please follow these steps:
 - Commit your changes with a clear message.
 - Push your changes to your forked repository.
 - Open a pull request to merge your changes into the main repository.
-# License
-This repository is licensed under the MIT License. Feel free to use and modify the notes as needed, and please attribute the source appropriately.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 # Contact
 If you have any questions or feedback, you can reach out to me via email or through the GitHub Issues page.
