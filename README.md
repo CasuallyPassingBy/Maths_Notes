@@ -8,63 +8,63 @@ The notes in this repository encompass various branches and topics within mathem
 ## Table of Contents
 
 ### Foundational Topics
-- [Set Theory](#set-theory)
-- [Topology](#topology)
-- [Number Theory](#number-theory)
+- Set Theory
+- Topology
+- Number Theory
 
 ### Analysis
-- [Real Analysis](#real-analysis)
-- [Vector Analysis](#vector-analysis)
-- [Metric and Normed Spaces](#metric-and-normed-spaces)
-- [Complex Analysis](#complex-analysis)
-- [Fourier Analysis](#fourier-analysis)
-- [Functional Analysis](#functional-analysis)
+- Real Analysis
+- Vector Analysis
+- Metric and Normed Spaces
+- Complex Analysis
+- Fourier Analysis
+- Functional Analysis
 
 ### Algebra
-- [Linear Algebra](#linear-algebra)
-- [Group Theory](#group-theory)
-- [Ring Theory](#ring-theory)
+- Linear Algebra
+- Group Theory
+- Ring Theory
 
 ### Differential Equations
-- [Ordinary Differential Equations](#ordinary-differential-equations)
-- [Partial Differential Equations](#partial-differential-equations)
+- Ordinary Differential Equations
+- Partial Differential Equations
 
 ### Applied Mathematics
-- [Numerical Analysis](#numerical-analysis)
-- [Combinatorics](#combinatorics)
-- [Probability Theory](#probability-theory)
-- [Statistics](#statistics)
-- [Stochastic Processes](#stochastic-processes)
+- Numerical Analysis
+- Combinatorics
+- Probability Theory
+- Statistics
+- Stochastic Processes
 
 ### Advanced Topics
-- [Measure Theory](#measure-theory)
+- Measure Theory
 
 ### Special Objects
-- [Special Functions](#special-functions)
-- [Special Polynomials](#special-polynomials)
-- [Special Numbers](#special-numbers)
-- [Special Notations](#special-notations)
+- Special Functions
+- Special Polynomials
+- Special Numbers
+- Special Notations
 
 ### Physics
-- [Classical Mechanics](#classical-mechanics)
+- Classical Mechanics
 
 ### Computer Science
-- [Theory of Computation](#theory-of-computation)
-- [Algorithms and Data Structures](#algorithms-and-data-structures)
-- [Artificial Intelligence](#artificial-intelligence)
+- Theory of Computation
+- Algorithms and Data Structures
+- Artificial Intelligence
 
 ### Miscellaneous
-- [Fractional Calculus](#fractional-calculus)
-- [Umbral Calculus](#umbral-calculus)
-- [Finite Operator Calculus](#finite-operator-calculus)
-- [Useful Identities](#useful-identities)
-- [Macroeconomics](#macroeconomics)
+- Fractional Calculus
+- Umbral Calculus
+- Finite Operator Calculus
+- Useful Identities
+- Macroeconomics
 
 # Getting Started
 To get started with the notes, you can clone the repository using the following command:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/CasuallyPassingBy/My_Notes.git
 ```
 
 Feel free to navigate through the directories and explore the notes on various topics. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
