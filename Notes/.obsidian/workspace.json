@@ -99,8 +99,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Algebra  ",
+                "query": "Bachelor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,13 +161,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "right": {
     "id": "beb862e217a984e3",
@@ -184,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +197,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,9 +207,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Symmetric Groups.md"
-              }
+              "state": {}
             }
           },
           {
@@ -246,8 +239,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c07f439297330e48",
+  "active": "bb9489502a761e08",
   "lastOpenFiles": [
+    "Bachelor's_Thesis/Round 1 Expo (Bachelor's).md",
+    "Bachelor's_Thesis",
+    "Symmetric Groups.md",
     "Group Homomorphisms.md",
     "Group Theory.md",
     "Central Hub.md",
@@ -256,7 +252,6 @@
     "Untitled.md",
     "Subgroups.md",
     "Integers modulo n.md",
-    "Symmetric Groups.md",
     "Tensor Product.md",
     "Boolean Algebras over Topological Spaces.md",
     "Axiom of Choice.md",
@@ -273,7 +268,6 @@
     "Fourier Analysis on Z(N).md",
     "Lattices.md",
     "Rational or Frobenius Normal Form.md",
-    "Vector Spaces.md",
     "Untitled.canvas",
     "Pasted image 20240627014411.png",
     "Pasted image 20240118182937.png",
