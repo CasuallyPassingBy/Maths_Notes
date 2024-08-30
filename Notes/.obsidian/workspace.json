@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c1a1ffe45983a05",
+            "id": "82c953b926698826",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -228,9 +228,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2c1a1ffe45983a05",
+  "active": "82c953b926698826",
   "lastOpenFiles": [
     "Central Hub.md",
+    "Templates/New Math Note.md",
+    "Untitled.md",
+    "Templates",
     "Symmetric Groups.md",
     "Counting elements of Finite Groups.md",
     "Group Theory.md",
@@ -255,8 +258,6 @@
     "Rational Numbers.md",
     "Integer Numbers.md",
     "Fourier Analysis on finite abelian groups.md",
-    "Fourier Analysis on Z(N).md",
-    "Lattices.md",
     "Untitled.canvas",
     "Pasted image 20240627014411.png",
     "Pasted image 20240118182937.png",
