@@ -99,7 +99,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -183,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Symmetric Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,6 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Symmetric Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +212,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Symmetric Groups.md"
+              }
             }
           },
           {
@@ -241,7 +246,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2c1a1ffe45983a05",
+  "active": "c07f439297330e48",
   "lastOpenFiles": [
     "Group Homomorphisms.md",
     "Group Theory.md",
