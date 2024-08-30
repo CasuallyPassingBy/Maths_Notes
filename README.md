@@ -70,6 +70,7 @@ git clone https://github.com/CasuallyPassingBy/My_Notes.git
 ```
 
 Feel free to navigate through the directories and explore the notes on various topics. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Since almost everything is markdown and they are linking to each other I reccomend using [Obsidian](https://obsidian.md/), and open a vault on the directory called Notes. This is the way I personally use this repository.
 
 # Contributing
 If you would like to contribute to the notes, please follow these steps:
