@@ -1,0 +1,142 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#SetTheory  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#RealAnalysis  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#VectorAnalysis  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Subject  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#OrdinaryDifferentialEquations  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Analysis  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#NumberTheory  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#ProbabilityTheory  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#NumericalAnalysis  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#Topology  ",
+      "color": {
+        "a": 1,
+        "rgb": 11020585
+      }
+    },
+    {
+      "query": "tag:#ComplexAnalysis  ",
+      "color": {
+        "a": 1,
+        "rgb": 15593528
+      }
+    },
+    {
+      "query": "tag:#ClassicalMechanics  ",
+      "color": {
+        "a": 1,
+        "rgb": 9027357
+      }
+    },
+    {
+      "query": "tag:#LinearAlgebra  ",
+      "color": {
+        "a": 1,
+        "rgb": 2138656
+      }
+    },
+    {
+      "query": "tag:#Statistics  ",
+      "color": {
+        "a": 1,
+        "rgb": 1493646
+      }
+    },
+    {
+      "query": "tag:#MeasureTheory  ",
+      "color": {
+        "a": 1,
+        "rgb": 876167
+      }
+    },
+    {
+      "query": "tag:#FourierAnalysis  ",
+      "color": {
+        "a": 1,
+        "rgb": 2237113
+      }
+    },
+    {
+      "query": "tag:#AlgorithmsAndDataStructures  ",
+      "color": {
+        "a": 1,
+        "rgb": 855436
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.01875,
+  "collapse-forces": true,
+  "centerStrength": 0.3046875,
+  "repelStrength": 11.5625,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.15414296627128843,
+  "close": false
+}
