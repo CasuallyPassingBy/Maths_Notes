@@ -1,6 +1,6 @@
 # Mathematics Notes
 
-Welcome to my comprehensive collection of mathematics notes! This repository contains detailed notes covering a wide range of mathematical topics, designed to provide a thorough understanding of the subject matter for anyone pursuing a bachelor's degree in mathematics.
+Welcome to my comprehensive collection of mathematics notes! This repository contains detailed notes covering a wide range of mathematical topics, designed to provide a thorough understanding of the subject matter for anyone pursuing a bachelor's degree in mathematics. In general, this repository will be updated weekly or biweekly with small things I learn along the way.
 
 # Overview
 The notes in this repository encompass various branches and topics within mathematics. Whether you're studying for exams, working on assignments, or exploring mathematical concepts, these notes are structured to support your learning journey.
